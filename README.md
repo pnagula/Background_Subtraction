@@ -1,3 +1,3 @@
 # Background_Subtraction
 
-![alt text] (https://github.com/pnagula/Background_Subtraction/blob/master/Video_Analytics.jpg)
+![alt text](https://github.com/pnagula/Background_Subtraction/blob/master/Video_Analytics.jpg)
